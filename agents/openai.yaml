@@ -1,0 +1,4 @@
+interface:
+  display_name: "Devtrack Capture"
+  short_description: "Registrar experiências técnicas com segurança"
+  default_prompt: "Capture a experiência técnica desta sessão para revisão, sem incluir informações confidenciais."
